@@ -78,6 +78,14 @@ const projects: ProjectProps[] = [
     codeLink:"/github",
     liveLink:"/https/google.com",
   },
+  {
+    id: 5,
+    img: "/project5.png",
+    name: "SirJayFashionSchool",
+    tools: ["React", "Javascript", "Tailwind CSS","Framer motion"],
+    codeLink:"/https://github.com/rastar12/sirJayWebsite",
+    liveLink:"/https/google.com",
+  },
 ];
 
 const skills = [
