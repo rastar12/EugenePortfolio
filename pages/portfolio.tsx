@@ -37,7 +37,7 @@ export default function Portfolio() {
                 key={project.id}
                 className="bg-Blur p-4  rounded-lg"
               >
-
+                
                 <div className="w-full  relative group">
                   <img
                     src={project.img}
@@ -67,7 +67,7 @@ export default function Portfolio() {
             ))}
           </div>
         </div>
-        {/* -----Services ----- */}
+        {/*-----Services -----*/}
         <Services />
         {/* -------Count Up */}
         <div className="flex justify-center gap-12 flex-wrap" ref={ref}>
