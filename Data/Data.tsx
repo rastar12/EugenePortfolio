@@ -76,15 +76,15 @@ const projects: ProjectProps[] = [
     name: "Dronean Landing Page",
     tools: ["React", "Javascript", "Tailwind CSS"],
     codeLink:"/github",
-    liveLink:"/https://drodean.onrender.com",
+    liveLink:"https://drodean.onrender.com",
   },
   {
     id: 5,
     img: "/project5.png",
     name: "SirJayFashionSchool",
     tools: ["React", "Javascript", "Tailwind CSS","Framer motion"],
-    codeLink:"/https://github.com/rastar12/sirJayWebsite",
-    liveLink:"/https://moonlit-fairy-36f4be.netlify.app/",
+    codeLink:"https://github.com/rastar12/sirJayWebsite",
+    liveLink:"https://moonlit-fairy-36f4be.netlify.app",
   },
 ];
 
