@@ -76,7 +76,7 @@ const projects: ProjectProps[] = [
     name: "Dronean Landing Page",
     tools: ["React", "Javascript", "Tailwind CSS"],
     codeLink:"/github",
-    liveLink:"/https/google.com",
+    liveLink:"/https://drodean.onrender.com",
   },
   {
     id: 5,
@@ -84,7 +84,7 @@ const projects: ProjectProps[] = [
     name: "SirJayFashionSchool",
     tools: ["React", "Javascript", "Tailwind CSS","Framer motion"],
     codeLink:"/https://github.com/rastar12/sirJayWebsite",
-    liveLink:"/https/google.com",
+    liveLink:"/https://moonlit-fairy-36f4be.netlify.app/",
   },
 ];
 

@@ -14,13 +14,13 @@ export default function Wrapper({pageIndex,children,className}: WrapperProps) {
       <>{children}</>
 
       <div className="fixed bottom-12 left-6 hidden md:flex items-center flex-col gap-4">
-        <Link href={"https://www.github.com"} target={"_blank"}>
+        <Link href={"https://github.com/rastar12"} target={"_blank"}>
           <AiFillGithub className={socialClassNames} />
         </Link>
-        <Link href={"https://www.instagram.com"} target={"_blank"}>
+        <Link href={"https://www.instagram.com/__ra_s.t.a.r_/"} target={"_blank"}>
           <AiFillInstagram className={socialClassNames} />
         </Link>
-        <Link href={"https://www.twitter.com"} target={"_blank"}>
+        <Link href={"https://x.com/rastar58"} target={"_blank"}>
           <AiFillTwitterCircle className={socialClassNames} />
         </Link>
       </div>
