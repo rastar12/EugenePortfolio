@@ -12,12 +12,13 @@ export default function about() {
       </Head>
       <Wrapper pageIndex={2}>
         <div className="flex flex-col gap-12 lg:flex-row items-center justify-center mb-12 min-h-screen lg:mb-0 pt-28 lg:pt-0">
-          <Image
+      {  /* <Image
             src={"/about1.jpg"}
             width={300}
             height={300}
             alt={"about image"}
           />
+     */ }
           <div className="lg:w-1/2 lg:ml-8 max-w-md md:max-w-xl">
             <div className="uppercase font-semibold text-sm text-WhiteGray">
               - Introduction
