@@ -86,6 +86,14 @@ const projects: ProjectProps[] = [
     codeLink:"https://github.com/rastar12/sirJayWebsite",
     liveLink:"https://moonlit-fairy-36f4be.netlify.app",
   },
+  {
+    id: 6,
+    img: "/project6.png",
+    name: "OBject Detection App",
+    tools: ["html", "Javascript", "tensorflow.js","coco-sd model"],
+    codeLink:"https://github.com/rastar12/objectDetection.git",
+    liveLink:"https://objectdetectorcamera.netlify.app/",
+  },
 ];
 
 const skills = [
