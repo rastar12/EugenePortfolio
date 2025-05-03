@@ -89,10 +89,18 @@ const projects: ProjectProps[] = [
   {
     id: 6,
     img: "/project6.png",
-    name: "OBject Detection App",
+    name: "OBject Detection and recognition App",
     tools: ["html", "Javascript", "tensorflow.js","coco-sd model"],
     codeLink:"https://github.com/rastar12/objectDetection.git",
     liveLink:"https://objectdetectorcamera.netlify.app/",
+  },
+  {
+    id: 7,
+    img: "/project7.png",
+    name: "Audio chat app",
+    tools: ["React", "typescript", "javascript","stream","Tailwind.css"],
+    codeLink:"https://github.com/rastar12/AudioChat.git",
+    liveLink:"/",
   },
 ];
 
