@@ -102,6 +102,15 @@ const projects: ProjectProps[] = [
     codeLink:"https://github.com/rastar12/AudioChat.git",
     liveLink:"/",
   },
+
+    {
+    id: 8,
+    img: "/project7.png",
+    name: "Rexy Agencies Eccomerce",
+    tools: ["React", "typescript", "javascript","Mpesa Daraja API","Tailwind.css"],
+    codeLink:"https://github.com/rastar12/AudioChat.git",
+    liveLink:"/",
+  },
 ];
 
 const skills = [
