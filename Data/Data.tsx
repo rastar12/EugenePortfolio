@@ -116,7 +116,7 @@ const projects: ProjectProps[] = [
 const skills = [
   { name: "HTML", level: 80 },
   { name: "CSS", level: 70 },
-  { name: "JavaScript", level: 75 },
+  { name: "JavaScript", level: 90 },
   { name: "java", level: 15 },
   { name: "ReactJS", level: 90 },
   { name: "ExpressJs", level: 65 },
