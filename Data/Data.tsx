@@ -105,11 +105,11 @@ const projects: ProjectProps[] = [
 
     {
     id: 8,
-    img: "/project7.png",
+    img: "/project8.png",
     name: "Rexy Agencies Eccomerce",
     tools: ["React", "typescript", "javascript","Mpesa Daraja API","Tailwind.css"],
     codeLink:"https://github.com/rastar12/AudioChat.git",
-    liveLink:"/",
+    liveLink:"https://rexyagencies.onrender.com/",
   },
 ];
 
